@@ -52,7 +52,7 @@ if __name__ == "__main__":
         choice = input("Enter the number corresponding to the menu: ")
         
         if choice == "1":
-            import all_features_menu
+            import menu
             break
         elif choice == "2":
             import windows_11_features_menu
