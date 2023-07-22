@@ -55,7 +55,7 @@ if __name__ == "__main__":
             import menu
             break
         elif choice == "2":
-            import windows_11_features_menu
+            import windows_11_menu
             break
         elif choice == "3":
             print("Exiting...")
