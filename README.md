@@ -50,7 +50,7 @@ ________________________________________________________________________________
 The main program flow is controlled within the if __name__ == "__main__": block.
 
 The print_welcome_message() function is called to display the welcome message and check System Restore status.
-After the System Restore Point is created, the program enters a loop to display the main menu repeatedly until the user decides to exit.
+After the System Restore Point is created, the program enters a loop to display them main menu repeatedly until the user decides to exit.
 The user is prompted to select a menu option (1, 2, or 3).
 If the user selects option 1, it imports and executes the all_features_menu.py module.
 If the user selects option 2, it imports and executes the windows_11_features_menu.py module.
