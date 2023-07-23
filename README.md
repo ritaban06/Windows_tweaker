@@ -47,7 +47,7 @@ creation.
 _____________________________________________________________________________________________________________________________________________
 
 3. Main Program Flow
-The main program flow is controlled within the if __name__ == "__main__": block.
+The main program flow is controlled within the if __name__ == __main__: block.
 
 The print_welcome_message() function is called to display the welcome message and check System Restore status.
 After the System Restore Point is created, the program enters a loop to display them main menu repeatedly until the user decides to exit.
