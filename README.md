@@ -54,6 +54,6 @@ After the System Restore Point is created, the program enters a loop to display 
 The user is prompted to select a menu option (1, 2, or 3).
 If the user selects option 1, it imports and executes the all_features_menu.py module.
 If the user selects option 2, it imports and executes the windows_11_features_menu.py module.
-If the user selects option 3, the program prints "Exiting..." and breaks out of the loop, ending the program.
+If the user selects option 3, the program prints Exiting... and breaks out of the loop, ending the program.
 If the user enters an invalid choice, it displays an error message, and the loop repeats.
 ---------------------------------------------------------------------------------------------------------------------------------------
