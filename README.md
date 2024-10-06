@@ -4,8 +4,6 @@ This is a documentation of this project.
 
 This code is in python programming language.
 
-This Documentation is written by ChatGTP-3.5
-
 This documentation contains document of each file created in the project folder.
 
 ## 1. Welcome.py
