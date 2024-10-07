@@ -1,4 +1,5 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/ritaban06/Windows_tweaker)
+![GitHub repo size](https://img.shields.io/github/repo-size/ritaban06/Windows_tweaker)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 # Windows Tweaker
 This is a documentation of this project.
