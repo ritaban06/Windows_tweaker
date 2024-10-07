@@ -1,9 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/ritaban06/Windows_tweaker)
 
 # Windows Tweaker
 This is a documentation of this project.
----
-![GitHub repo size](https://img.shields.io/github/repo-size/ritaban06/Windows_tweaker)
-
 
 This code is in python programming language.
 
